@@ -13,7 +13,7 @@ proxy_username = 'username'
 proxy_password = 'password'
 seleniumwire_options = {
     'proxy': {
-        'http': f'http://{proxy_username}:{proxy_password}@city.smartproxy.com:21250',
+        'http': f'http://{proxy_username}:{proxy_password}@city.decodo.com:21250',
         'verify_ssl': False,
     },
 }
