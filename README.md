@@ -59,7 +59,7 @@ url = "https://www.google.com/maps/search/falafel+in+london/"
 ## Proxies
 This script required proxies to run and overcome limitations that appear when making frequent requests. You can get reliable residential proxies from Decodo and access over 115+ residential IPs with fast response times and high success rates.
 
-### [Start your free 3-day trial](https://dashboard.decodo.com/register?page=residential-proxies/pricing)
+[Start your free 3-day trial](https://dashboard.decodo.com/register?page=residential-proxies/pricing)
 
 ## Read more
 A detailed guide on how the script works can be found on [our website](https://decodo.com/blog/google-maps-scraping).
