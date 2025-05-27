@@ -65,8 +65,8 @@ This script required proxies to run and overcome limitations that appear when ma
 A detailed guide on how the script works can be found on [our website](https://decodo.com/blog/google-maps-scraping).
 
 ## Related repositories
-[Google News scraper](https://github.com/Decodo/Google-News-scraper)
+[Google news scraper](https://github.com/Decodo/Google-News-scraper)
 
-[Python scraper tutorial](https://github.com/Decodo/Python-scraper-tutorial)
+[Google images scraper](https://github.com/Decodo/google-images-scraper)
 
 [Selenium integration](https://github.com/Decodo/Selenium)
