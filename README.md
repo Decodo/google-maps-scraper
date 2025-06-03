@@ -57,7 +57,7 @@ url = "https://www.google.com/maps/search/falafel+in+london/"
 ![image](https://github.com/user-attachments/assets/a4214763-34f8-4008-83e3-ec18a8db824c)
 
 ## Proxies
-This script required proxies to run and overcome limitations that appear when making frequent requests. You can get reliable residential proxies from Decodo and access over 115+ residential IPs with fast response times and high success rates.
+This script required proxies to run and overcome limitations that appear when making frequent requests. You can get reliable residential proxies from Decodo and access 115M+ residential IPs with fast response times and high success rates.
 
 [Start your free 3-day trial](https://dashboard.decodo.com/register?page=residential-proxies/pricing)
 
